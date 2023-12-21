@@ -1,0 +1,10 @@
+final String apiurl = 'https://xyz.tadafuq.ae/api/';
+final String apiregister = 'user/register';
+final String apilogin = 'user/login';
+final String apiunfriendList = 'user/unfriends-list';
+final String apisearch = 'user/search';
+final String apisendFriendrequest = 'user/send-friend-request?';
+final String apiMyFriend = 'user/friends-list';
+final String apireceivedyFriendrequests = 'user/received-friend-requests-list';
+final String apisentreceivedyFriendrequests = 'user/sent-friend-requests-list';
+final String apiSendMessage = 'user/send-message';

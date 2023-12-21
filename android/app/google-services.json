@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "135242690290",
+    "project_id": "zchatapp-bb638",
+    "storage_bucket": "zchatapp-bb638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135242690290:android:58e0fbd34c568c803aaa6b",
+        "android_client_info": {
+          "package_name": "com.tadafuq.zchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135242690290-3nq94o87ab648ir2ngssfm5smq8ir706.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx6PcQ-9PNFSg76RbNXRWUJQQMz4AlLDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135242690290-3nq94o87ab648ir2ngssfm5smq8ir706.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "135242690290-1brp6f9fcithcgf9nr3mm08n91k9261p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tadafuq.zchatapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135242690290:android:965cacfa573b021f3aaa6b",
+        "android_client_info": {
+          "package_name": "com.tadafuq.zechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135242690290-3nq94o87ab648ir2ngssfm5smq8ir706.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx6PcQ-9PNFSg76RbNXRWUJQQMz4AlLDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135242690290-3nq94o87ab648ir2ngssfm5smq8ir706.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "135242690290-1brp6f9fcithcgf9nr3mm08n91k9261p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tadafuq.zchatapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
